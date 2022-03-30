@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://drive.google.com/file/d/1eMGyhKAQcq76vMG0SGZzG6u7ckpj1SWB/view" align="center" style="width: 100%" />
+![fULLSTACK dEVELOPER](https://user-images.githubusercontent.com/31254626/160920705-ae949b08-489a-4c6e-9ffe-cbf48ed9cdf9.png)
 </div>  
   
 
@@ -87,9 +87,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
 <br/>  
 
   
@@ -107,4 +104,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
