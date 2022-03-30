@@ -1,5 +1,5 @@
 <div align="center">
-![fULLSTACK dEVELOPER](https://user-images.githubusercontent.com/31254626/160920705-ae949b08-489a-4c6e-9ffe-cbf48ed9cdf9.png)
+  <img src="https://user-images.githubusercontent.com/31254626/160920817-13627b6b-81e8-4fb9-8910-a78be280ee97.png" align="center" style="width: 100%" />
 </div>  
   
 
