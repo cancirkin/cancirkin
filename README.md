@@ -9,7 +9,7 @@
 - 🔭 I'm currently working on Vue&Nuxt  
   
 
-- 🌱 I’m currently learning Go, Unit, Acceptance and Pact (Contract) Tests.  
+- 🌱 I’m currently learning React, React Native 
   
 
 - ❓ Ask me about anything related to Vue&Nuxt  
