@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/31254626/160920817-13627b6b-81e8-4fb9-8910-a78be280ee97.png" align="center" style="width: 100%" />
+  <img src="https://github.com/cancirkin/cancirkin/assets/31254626/d901b551-4495-4852-9d75-2d4f8b5ff8c5" align="center" style="width: 100%" />
 </div>  
   
 
