@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">I'm Hüseyin, a full-stack developer 👨‍💻</div>  
+### <div align="center">I'm Hüseyin, a web developer 👨‍💻</div>  
   
 
 - 🔭 I'm currently working on Vue&React  
