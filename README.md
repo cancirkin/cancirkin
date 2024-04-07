@@ -5,13 +5,13 @@
 ### <div align="center">I'm Hüseyin, a full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I'm currently working on Vue&Nuxt  
+- 🔭 I'm currently working on Vue&React  
   
 
-- 🌱 I’m currently learning React, React Native 
+- 🌱 I’m currently learning GO
   
 
-- ❓ Ask me about anything related to Vue&Nuxt  
+- ❓ Ask me about anything related to Vue-React-HTML-CSS  
   
 
 <br/>  
